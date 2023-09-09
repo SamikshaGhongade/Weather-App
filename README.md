@@ -1,3 +1,6 @@
+LIVE LINK : https://samiksha-weather.netlify.app/
+
+
 WEATHER APP
 
 A Simple Weather App which shows current Weather in the city.
